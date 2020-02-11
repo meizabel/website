@@ -82,7 +82,7 @@ as an authorized redirect URI for the OAUTH credentials used to create the deplo
 * If using IAP: see the guide to 
   [monitoring your Cloud IAP setup](/docs/gke/deploy/monitor-iap-setup/).
 * See the sections below for troubleshooting specific problems.
-* Please [report a bug](https://github.com/kubeflow/kubeflow/issues/new?template=bug_report.md) if you can't resolve the problem by following the above steps.
+* Please [report a bug](https://github.com/kubeflow/kubeflow/issues/new?template=bug_report.md) if you can't resolve the problem by following the above steps .
 
 ### DNS name not registered
 
